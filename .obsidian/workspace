@@ -1,0 +1,135 @@
+{
+  "main": {
+    "id": "62f8ae75dde84c91",
+    "type": "split",
+    "children": [
+      {
+        "id": "6676f90ed8b5ab7d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fall22/NetSec/_SeedLabs.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c5150e8e0f12d1a",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1981e23b5b7a3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "857d1e506fe41bba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4eeb2c479c28a05e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6e88ef68f2317c7b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f8f321e5d380296",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42f3a63544edeb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "858f14ab850a759f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fall22/NetSec/_SeedLabs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ee3e63087b6958e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Fall22/NetSec/_SeedLabs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e65340fc47dcb4c6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba85d8fb821bf4bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Fall22/NetSec/_SeedLabs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "857d1e506fe41bba",
+  "lastOpenFiles": [
+    "Fall22/NetSec/_SeedLabs.md"
+  ]
+}
